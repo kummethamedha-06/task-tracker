@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  .task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px 0;
+  }
+  .task.completed .description {
+    text-decoration: line-through;
+    color: gray;
+  }
+  button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  .completed-btn {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+  }
+  .delete-btn {
+    background-color: #f44336;
+    color: white;
+    border: none;
+  }
+  
