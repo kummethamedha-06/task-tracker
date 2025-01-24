@@ -1,14 +1,17 @@
 # Task Tracker
 
-A simple task tracker application built with HTML, CSS, and JavaScript.
+A simple task tracker application built using HTML, CSS, and JavaScript.
 
 ## Features
-- Add new tasks.
-- Mark tasks as complete or incomplete.
-- Delete tasks.
-- Completed tasks are automatically moved to the end of the list.
+- Add tasks
+- Mark tasks as complete or incomplete
+- Delete tasks
+- Completed tasks move to the end of the list with strikethrough formatting
 
-## How to Run
+## Project URL
+[https://roadmap.sh/projects/task-tracker-js](https://roadmap.sh/projects/task-tracker-js)
+
+## How to Use
 1. Clone the repository:
    ```bash
    git clone <repository-URL>
